@@ -1,0 +1,10 @@
+C:\Users\BUKET\source\repos\FinalOdevi\FinalOdevi\obj\Debug\FinalOdevi.csprojAssemblyReference.cache
+C:\Users\BUKET\source\repos\FinalOdevi\FinalOdevi\obj\Debug\FinalOdevi.Properties.Resources.resources
+C:\Users\BUKET\source\repos\FinalOdevi\FinalOdevi\obj\Debug\FinalOdevi.csproj.GenerateResource.cache
+C:\Users\BUKET\source\repos\FinalOdevi\FinalOdevi\obj\Debug\FinalOdevi.csproj.CoreCompileInputs.cache
+C:\Users\BUKET\source\repos\FinalOdevi\FinalOdevi\bin\Debug\FinalOdevi.exe.config
+C:\Users\BUKET\source\repos\FinalOdevi\FinalOdevi\bin\Debug\FinalOdevi.exe
+C:\Users\BUKET\source\repos\FinalOdevi\FinalOdevi\bin\Debug\FinalOdevi.pdb
+C:\Users\BUKET\source\repos\FinalOdevi\FinalOdevi\obj\Debug\FinalOdevi.exe
+C:\Users\BUKET\source\repos\FinalOdevi\FinalOdevi\obj\Debug\FinalOdevi.pdb
+C:\Users\BUKET\source\repos\FinalOdevi\FinalOdevi\obj\Debug\FinalOdevi.frmFinalOdevi.resources
